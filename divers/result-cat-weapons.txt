@@ -1,0 +1,3591 @@
+
+Weapon
+Skill
+Dam
+Crit
+Range
+Encum
+HP
+Price
+Rarity
+Special
+Index
+
+Energy
+"Precision-X" Marksman Rifle
+Ranged [Heavy]
+9
+3
+Long
+5
+1
+1,500
+8
+Pierce 1, Stun Setting, 
+ND:44
+
+"Subduer-9" Riot Blaster
+Ranged [Heavy]
+10
+6
+Short
+6
+3
+1,250
+5
+Blast 6, Cumbersome 3, Stun Damage, 
+ND:44
+
+12 Defender
+Ranged [Light]
+5
+5
+Short
+1
+0
+25
+4
+Inferior, Limited Ammo 2, 
+FH:40
+
+A280 C Heavy Blaster Rifle
+Ranged [Heavy]
+9
+4
+Long
+5
+2
+1,800
+7
+Accurate 1, Cumbersome 3, Stun Setting, 
+FiB:43
+
+ACP Repeater Gun
+Ranged [Heavy]
+7
+3
+Medium
+3
+1
+1,000
+6
+Auto-Fire, Stun Setting, 
+LoNH:100
+
+Arakyd Accelerated Charged Particle Array Gun
+Ranged [Heavy]
+6
+3
+Short
+3
+3
+890
+6
+Blast 5, Stun Damage, 
+DC:42
+
+Atgar SpaceDefense 1.8 FD Autoturret
+Gunnery
+17
+2
+Extreme
+25
+0
+(R) 12,000
+6
+Auto-Fire, Slow-Firing 1, Limited Ammo 8, 
+FiB:45
+
+BlasTech DH-X Heavy Blaster Rifle
+Ranged [Heavy]
+10
+3
+Long
+7
+4
+1,900
+6
+Cumbersome 3, Pierce 2, 
+DC:43
+
+BlasTech DL-19C Blaster Pistol
+Ranged [Light]
+5
+4
+Medium
+1
+4
+450
+4
+Stun Setting, 
+SM:44
+
+BlasTech DL-7H Heavy Blaster Pistol
+Ranged [Light]
+8
+3
+Medium
+2
+2
+(R) 850
+6
+
+DC:41
+
+BlasTech DLS-12 Heavy Blaster Carbine
+Ranged [Heavy]
+10
+3
+Medium
+4
+3
+1,350
+7
+Auto-Fire, Cumbersome 2, 
+KtP:42
+
+BlasTech E-11s Sniper Rifle
+Ranged [Heavy]
+10
+3
+Extreme
+6
+3
+(R) 3,500
+7
+Accurate 1, Cumbersome 3, Pierce 2, Slow-Firing 1, 
+EtU:38
+
+BlasTech LBR-9 Stun Rifle
+Ranged [Heavy]
+10
+-
+Long
+6
+4
+2,800
+4
+Disorient 2, Stun Damage, 
+EtU:39
+
+Blastech M-300 Hunting Blasater
+Ranged [Heavy]
+8
+3
+Extreme
+4
+1
+1,600
+6
+Accurate 1, Cumbersome 2, Pierce 2, Stun Setting, 
+SS:40
+
+BlasTech SE-14r Light Repeating Blaster
+Ranged [Light]
+6
+3
+Medium
+2
+3
+(R) 1,000
+6
+Auto-Fire, Stun Setting, 
+DC:43
+
+Blaster Carbine
+Ranged [Heavy]
+9
+3
+Medium
+3
+4
+850
+5
+Stun Setting, 
+A-BGR:31, A-CRB:175, E-BGR:31, E-CRB:162, F-BGR:31, F-CRB:168
+
+Blaster Pistol
+Ranged [Light]
+6
+3
+Medium
+1
+3
+400
+4
+Stun Setting, 
+A-BGR:31, A-CRB:174, E-BGR:31, E-CRB:161, F-BGR:31, F-CRB:167
+
+Blaster Rifle
+Ranged [Heavy]
+9
+3
+Long
+4
+4
+900
+5
+Stun Setting, 
+A-BGR:31, A-CRB:175, E-BGR:31, E-CRB:162, F-BGR:31, F-CRB:168
+
+Boonta Blaster
+Ranged [Light]
+6
+3
+Short
+1
+1
+1,000
+8
+Stun Setting, 
+LoNH:100
+
+Bowcaster
+Ranged [Heavy]
+10
+3
+Medium
+5
+2
+1,250
+7
+Cumbersome 3, Knockdown, 
+E-BGR:31, E-CRB:162
+
+BR-219 Heavy Blaster Pistol
+Ranged [Light]
+8
+3
+Short
+2
+2
+(R) 625
+7
+Stun Setting, Vicious 2, 
+EV:40
+
+CDEF Blaster Pistol
+Ranged [Light]
+5
+4
+Medium
+1
+1
+150
+4
+Inferior, Stun Setting, 
+SoF:94
+
+Corellian Arms CR-2 Heavy Blaster Pistol
+Ranged [Light]
+7
+4
+Medium
+2
+2
+600
+5
+Stun Setting, 
+SoF:96
+
+Corellian Arms CR-8 Takedown Rifle
+Ranged [Heavy]
+9
+3
+Extreme
+4
+1
+(R) 3,250
+7
+Accurate 2, Prepare 2, Pierce 2, Slow-Firing 1, 
+SS:40
+
+Corondexx VES-700 Pulse Rifle
+Ranged [Heavy]
+8
+3
+Medium
+4
+3
+950
+6
+Blast 6, Stun Setting, 
+FC:44
+
+Coronet Arms Dueling Pistol
+Ranged [Light]
+9
+2
+Short
+2
+2
+750
+5
+Accurate 1, Limited Ammo 1, Pierce 1, 
+SoF:94
+
+Coronet Arms H-7 "Equalizer" Blaster Pistol
+Ranged [Light]
+7
+2
+Medium
+2
+3
+1,200
+8
+Superior, Stun Setting, 
+SoF:95
+
+Coronet Arms HL-27 Light Blaster Pistol
+Ranged [Light]
+5
+3
+Medium
+1
+2
+450
+4
+Accurate 1, Stun Setting, 
+SoF:94
+
+Czerka Arms 411 Holdout Blaster
+Ranged [Light]
+4
+4
+Medium
+1
+1
+(R) 350
+5
+Stun Setting, 
+FC:43
+
+Czerka Arms A95 Stingbeam
+Ranged [Light]
+5
+3
+Engaged
+1
+0
+400
+5
+Stun Setting, Vicious 1, 
+FC:42
+
+Czerka Arms C-10 "Dragoneye Reaper" Heavy Blaster Pistol
+Ranged [Light]
+8
+3
+Medium
+3
+3
+1,000
+7
+Stun Setting, 
+FC:43
+
+DDC-MR6 Modular Rifle
+Ranged [Heavy]
+7
+3
+Medium
+3
+6
+1,000
+6
+Stun Setting, 
+SM:44
+
+Defender Sporting Blaster Pistol
+Ranged [Light]
+5
+3
+Medium
+1
+1
+650
+6
+Stun Setting, Accurate 1, 
+DA:44
+
+DH-17 Blaster Carbine
+Ranged [Heavy]
+8
+3
+Medium
+2
+3
+900
+6
+Auto-Fire, Inaccurate 1, Stun Setting, 
+FiB:43
+
+Disruptor Pistol
+Ranged [Light]
+10
+2
+Short
+2
+2
+(R) 3,000
+6
+Vicious 4, 
+A-CRB:176, E-CRB:163
+
+Disruptor Rifle
+Ranged [Heavy]
+10
+2
+Long
+5
+4
+(R) 5,000
+6
+Cumbersome 2, Vicious 5, 
+A-BGR:31, A-CRB:176, E-CRB:163, F-BGR:31
+
+DR-45 "Dragoon" Cavalry Blaster
+Ranged [Light]
+8
+3
+Medium
+1
+3
+1,900
+6
+Accurate 1, Stun Setting, 
+SoT:40
+
+Droid Disruptor
+Ranged [Light]
+6
+3
+Short
+2
+1
+800
+7
+Vicious 3, Droids Only
+SoR:104
+
+E-5 Blaster Carbine
+Ranged [Heavy]
+9
+3
+Medium
+3
+4
+550
+3
+Inaccurate 1, Stun Setting, 
+SoT:40
+
+ELG-3A Blaster Pistol
+Ranged [Light]
+6
+4
+Short
+1
+0
+400
+5
+Stun Setting, 
+DA:44
+
+Energy Slingshot
+Ranged [Light]
+3
+-
+Short
+1
+0
+40
+4
+Disorient 2, Stun Damage, 
+NoP:102
+
+Fed-Dub Protective Services Spukami Pocket Blaster Pistol
+Ranged [Light]
+5
+3
+Short
+1
+1
+200
+2
+Stun Setting, 
+SoF:96
+
+Felebreck Droid Disabler
+Ranged [Light]
+12
+3
+Short
+1
+1
+1,050
+5
+Concussive 1, Ion, Limited Ammo 3, 
+FC:44
+
+GLX Firelance
+Ranged [Heavy]
+7
+3
+Long
+3
+3
+1,600
+6
+Auto-Fire, Disorient 2, Stun Setting, 
+EV:40
+
+Greff-Timms ATA Pulse-Wave Blaster
+Ranged [Light]
+5
+3
+Short
+2
+2
+(R) 750
+6
+Vicious 3, 
+LoNH:100
+
+Heavy Blaster Pistol
+Ranged [Light]
+7
+3
+Medium
+2
+3
+700
+6
+Stun Setting, 
+A-BGR:31, A-CRB:174, E-BGR:31, E-CRB:162, F-BGR:31, F-CRB:167
+
+Heavy Blaster Rifle
+Ranged [Heavy]
+10
+3
+Long
+6
+4
+1,500
+6
+Auto-Fire, Cumbersome 3, 
+A-CRB:176, E-CRB:162
+
+Heavy Repeating Blaster
+Gunnery
+15
+2
+Long
+9
+4
+(R) 6,000
+8
+Auto-Fire, Cumbersome 5, Pierce 2, Vicious 1, 
+A-BGR:31, A-CRB:176, E-BGR:31, E-CRB:162, F-BGR:31
+
+Herloss HBt-4 Hunting Blaster
+Ranged [Heavy]
+10
+3
+Medium
+5
+2
+900
+6
+Cumbersome 2, Stun Setting, 
+FC:44
+
+HH-50 Heavy Blaster Pistol
+Ranged [Light]
+7
+3
+Short
+3
+2
+1,300
+7
+Linked 1, Stun Setting, Vicious 1, 
+SoT:41
+
+Holdout Blaster
+Ranged [Light]
+5
+4
+Short
+1
+1
+200
+4
+Stun Setting, 
+A-BGR:31, A-CRB:174, E-BGR:31*, E-CRB:161, F-BGR:31*, F-CRB:167
+
+Ionization blaster
+Ranged [Light]
+10
+5
+Short
+3
+3
+250
+3
+Disorient 5, Ion, 
+A-CRB:176*, E-CRB:162
+
+J-10 Dual Blaster Cannon
+Gunnery
+13
+2
+Long
+8
+3
+(R) 6,750
+7
+Cumbersome 5, Inaccurate 1, Linked 1, 
+FiB:45
+
+Kyuzo Energy Bow
+Ranged [Heavy]
+9
+4
+Long
+6
+1
+2,400
+8
+Cumbersome 3, Knockdown, Pierce 5, 
+FiB:44
+
+LD-1 Target Rifle
+Ranged [Heavy]
+9
+4
+Extreme
+6
+3
+1,275
+7
+Accurate 2, Cumbersome 3, Pierce 3, Slow-Firing 1, 
+EV:40
+
+Light Blaster Pistol
+Ranged [Light]
+5
+4
+Medium
+1
+2
+300
+4
+Stun Setting, 
+A-BGR:31, A-CRB:174, E-BGR:31, E-CRB:161, F-BGR:31, F-CRB:167
+
+Light Repeating Blaster
+Ranged [Heavy]
+11
+3
+Long
+7
+4
+(R) 2,250
+7
+Auto-Fire, Cumbersome 4, Pierce 1, 
+A-CRB:176, E-CRB:162
+
+Liquidsilver L7 Light Blaster Pistol
+Ranged [Light]
+6
+3
+Medium
+1
+1
+425
+4
+Stun Setting, 
+FC:43
+
+Merr-Sonn AJ-23 Concussive Rifle
+Ranged [Heavy]
+8
+5
+Short
+4
+2
+8,000
+4
+Blast 7, Concussive 2, Inaccurate 2, Knockdown, Stun Damage, 
+DoH:42
+
+Merr-Sonn IR-5 "Intimidator" Blaster Pistol
+Ranged [Light]
+5
+3
+Medium
+2
+2
+(R) 750
+6
+Auto-Fire, Inaccurate 1, 
+DC:41
+
+Merr-Sonn Model 44 Blaster Pistol
+Ranged [Light]
+6
+3
+Medium
+1
+4
+500
+4
+Stun Setting, 
+DC:41
+
+Merr-sonn Model 53 "Quicktrigger" Blaster Pistol
+Ranged [Light]
+6
+3
+Medium
+1
+4
+450
+4
+Stun Setting, 
+FC:43
+
+Merr-Sonn Model 80 Blaster Pistol
+Ranged [Light]
+6
+2
+Medium
+2
+3
+550
+5
+Stun Setting, 
+DC:41
+
+Military Holdout Blaster
+Ranged [Light]
+6
+3
+Short
+1
+0
+500
+5
+Stun Setting, 
+DA:44
+
+Model Q4 Quickfire Holdout Blaster
+Ranged [Light]
+5
+3
+Short
+1
+0
+250
+4
+Stun Setting, 
+FH:40
+
+Mon Calamari Battle Baton
+Ranged [Light]
+5
+4
+Medium
+1
+1
+250
+6
+Stun Setting, 
+SoR:105
+
+Mon Calamari Spear Blaster (Blaster)
+Ranged [Heavy]
+8
+3
+Long
+5
+3
+1,350
+5
+Stun Setting, 
+SoR:106
+
+Nightsister Energy Bow
+Ranged [Heavy]
+8
+2
+Medium
+4
+2
+(R) 2,800
+8
+Pierce 4, Unwieldy 3, Vicious 2, 
+SS:40
+
+Palandrix KO-2 Heavy Stun Pistol
+Ranged [Light]
+8
+-
+Short
+2
+3
+650
+5
+Stun Damage, 
+KtP:42
+
+Pulse Cannon
+Ranged [Heavy]
+9
+3
+Engaged
+5
+1
+(R) 2,750
+6
+Cumbersome 3, Pierce 2, Slow-Firing 1, As a maneuver, prime the cannon to expend all ammunition in a single shot. The next shot counts as having the Breach 1 and Vicious 3 qualities, and the weapon runs out of ammunition.
+FiB:43
+
+Raider Arms Model-1 "Nova Viper" Blaster Pistol
+Ranged [Light]
+7
+3
+Medium
+2
+2
+4,500
+9
+Accurate 2, Pierce 2, Stun Setting, 
+FC:43
+
+Reciprocating Quad Blaster Cannon
+Gunnery
+10
+2
+Long
+8
+4
+(R) 9,950
+8
+Auto-Fire (Only), Breach 1, Cumbersome 4, Inaccurate 1, Prepare 2, 
+FiB:45
+
+SakTek D-29 Repulsor Rifle
+Gunnery
+8
+4
+Medium
+3
+3
+1,550
+7
+Disorient 3, Knockdown, Stun Damage, 
+LoNH:102
+
+SE-14C Blaster Pistol
+Ranged [Light]
+5
+4
+Short
+1
+2
+650
+6
+Auto-Fire, Stun Setting, 
+FiB:42
+
+Security S-5 Heavy Blaster Pistol
+Ranged [Light]
+7
+3
+Medium
+3
+1
+1,250
+7
+Stun Setting, 
+KtP:43
+
+Site-145 Replica Blaster Pistol
+Ranged [Light]
+6
+3
+Medium
+1
+0
+(R) 1,750
+8
+Stun Setting, 
+KtP:43
+
+SKZ Sporting Blaster
+Ranged [Heavy]
+8
+4
+Long
+3
+4
+600
+4
+Stun Setting, 
+SoF:96
+
+SoroSuub "Renegade" Heavy Blaster Pistol
+Ranged [Light]
+8
+3
+Medium
+2
+3
+950
+4
+Inaccurate 1, Stun Setting, 
+SoR:106
+
+SoroSuub HOB Heavy Repeating Blaster
+Gunnery
+15
+3
+Extreme
+10
+4
+(R) 6,500
+8
+Auto-Fire, Cumbersome 6, Pierce 2, Vicious 1, 
+DC:44
+
+SoroSuub OK-98 Blaster Carbine
+Ranged [Heavy]
+9
+3
+Medium
+4
+3
+1,100
+5
+Stun Setting, 
+DC:43
+
+SoroSuub VX "Sidewinder" Repeating Blaster
+Gunnery
+12
+3
+Long
+8
+4
+(R) 3,350
+7
+Auto-Fire, Cumbersome 6, Pierce 1, Vicious 1, 
+DC:43
+
+SoroSuub X-30 Lancer Precision Blast Pistol
+Ranged [Light]
+5
+4
+Long
+1
+3
+1,000
+5
+Accurate 1, Pierce 2, 
+EtU:38
+
+SSG Mk II Paladin
+Ranged [Heavy]
+8
+3
+Long
+4
+2
+3,250
+8
+Auto-Fire, Pierce 1, Stun Setting, Superior, 
+EV:41
+
+SWE/2 Sonic Rifle
+Ranged [Heavy]
+8
+6
+Long
+4
+3
+1,200
+6
+Concussive 1, Slow-Firing 1, Stun Damage, 
+FH:40
+
+T-7 Ion Disruptor
+Ranged [Heavy]
+12
+2
+Long
+6
+2
+(R) 8,000
+9
+Blast 6, Breach 2, Cumbersome 3, Slow-Firing 1, Vicious 6, Minimum Critical Injury result: Crippled. Minimum Critical Hit result: Component Hit
+FiB:44
+
+Talus Ironworks XL-2 "Flashfire" Light Blaster Pistol
+Ranged [Light]
+5
+3
+Medium
+1
+3
+450
+5
+Disorient 1, Stun Setting, 
+SoF:95
+
+Tenloss IDX-9 Ion Stunner
+Ranged [Light]
+7
+-
+Medium
+1
+2
+300
+4
+Ion, Stun Damage, 
+DoH:42
+
+Variable Holdout Blaster
+Ranged [Light]
+1
+4
+Short
+1
+0
+400
+7
+Limited Ammo 12, Damage setting 1 to 7
+SoR:104
+
+Weequay Blaster Lance
+Ranged [Heavy]
+8
+3
+Extreme
+5
+2
+850
+6
+Accurate 1, Cumbersome 2, 
+LoNH:100
+
+Z-6 Rotary Blaster Cannon
+Ranged [Heavy]
+12
+4
+Long
+6
+3
+(R) 3,000
+7
+Auto-Fire (Only), Cumbersome 3, Prepare 1, 
+FiB:44
+
+Slugthrowers
+
+Adostic Arms 8-Gauge Scatter Gun
+Ranged [Heavy]
+7
+6
+Short
+3
+2
+550
+4
+Blast 3, Knockdown, 
+FC:44
+
+ASP-9 "Vrelt" Autopistol
+Ranged [Light]
+4
+5
+Short
+1
+0
+150
+4
+Auto-Fire, 
+SoF:96
+
+Berserker Rifle
+Ranged [Heavy]
+7
+4
+Medium
+4
+0
+(R) 600
+5
+Burn 1, Cumbersome 3, Disorient 1, 
+FiB:46
+
+Coronet Arms Mark V "Sand Panther" Hunting Rifle
+Ranged [Heavy]
+7
+5
+Long
+5
+2
+1,750
+7
+Accurate 1, Cumbersome 2, 
+SoF:97
+
+Czerka Arms KS23 Hammer
+Ranged [Heavy]
+8
+4
+Short
+5
+4
+1,500
+5
+Blast 6, Knockdown, 
+EtU:41
+
+Czerka Arms Model 38 Sharpshooter's Rifle
+Ranged [Heavy]
+8
+3
+Extreme
+5
+4
+3,000
+6
+Accurate 2, Pierce 3, 
+EtU:40
+
+Czerka Arms Model 57 "Homesteader" Hunting Rifle
+Ranged [Heavy]
+7
+5
+Long
+5
+4
+500
+6
+Accurate 1, Cumbersome 2, 
+SS:41
+
+Field Sports Model 77 Air Rifle
+Ranged [Heavy]
+6
+-
+Long
+3
+3
+1,100
+6
+Pierce 4, Stun Damage, 
+EtU:39, SS:41
+
+FWG-5 Flechette Pistol
+Ranged [Light]
+6
+3
+Short
+1
+2
+(R) 825
+7
+Guided 3, Limited Ammo 3, 
+FC:44
+
+Glunok FYR Assault Carbine
+Ranged [Heavy]
+6
+5
+Short
+4
+1
+250
+4
+Auto-Fire, Inaccurate 1, 
+DC:45
+
+Imperial Heavy Repeater
+Ranged [Heavy]
+8
+4
+Medium
+3
+2
+(R) 1,500
+7
+Auto-Fire, Cumbersome 4, As maneuver, prime weapon to expend all ammunition in a single shot. The next shot counts as having the Blast 7 and Concussive 1 qualities, doesn't have Auto-fire, and runs out of ammunition.
+FiB:46
+
+Kelvarek Consolidated Arms KD-30 "Dissuader" Pistol
+Ranged [Light]
+4
+5
+Short
+2
+0
+350
+6
+Pierce 2, Vicious 1, 
+LoNH:102
+
+Prax Arms Stealth-2VX Palm Shooter
+Ranged [Light]
+1
+5
+Short
+0
+0
+300
+5
+Limited Ammo 3, 
+LoNH:102
+
+Salus DF-D1 Duo-Flechette Rifle
+Ranged [Heavy]
+9
+3
+Short
+3
+3
+(R) 1,000
+5
+Blast 4, Limited Ammo 5, Linked 1, Vicious 2, 
+SoR:106
+
+Selonian Shard Shooter
+Ranged [Heavy]
+5
+3
+Medium
+4
+2
+1,500
+7
+Auto-Fire, Pierce 1, 
+SoF:97
+
+SH-9 Slugthrower Pistol
+Ranged [Light]
+4
+5
+Short
+1
+0
+250
+4
+Limited Ammo 5, Pierce 2, 
+FiB:46
+
+Slugthrower Pistol
+Ranged [Light]
+4
+5
+Short
+1
+0
+100
+3
+
+A-CRB:177, E-CRB:164, F-CRB:169
+
+Slugthrower Rifle
+Ranged [Heavy]
+7
+5
+Medium
+5
+1
+250
+3
+Cumbersome 2, 
+A-CRB:177, E-CRB:164, F-CRB:169
+
+Verpine Heavy Shatter Rifle
+Gunnery
+15
+2
+Extreme
+4
+4
+45,000
+8
+Accurate 2, Knockdown, Pierce 6, 
+SoR:106
+
+Verpine Shatter Pistol
+Ranged [Light]
+8
+3
+Medium
+1
+2
+15,000
+8
+Knockdown, Pierce 2, 
+SoR:106
+
+Verpine Shatter Rifle
+Ranged [Heavy]
+12
+3
+Extreme
+3
+3
+30,000
+8
+Knockdown, Pierce 4, 
+SoR:106
+
+Vodran Hunting Rifle
+Ranged [Heavy]
+7
+4
+Long
+4
+2
+800
+7
+Cumbersome 2, 
+LoNH:102
+
+XET Industries Model C "Fiver" Self-Defense Pistol
+Ranged [Light]
+5
+4
+Short
+2
+1
+200
+4
+Accurate 1, Limited Ammo 5, 
+DC:45
+Melee
+'aKraB Clip-point Vibrodagger
+Melee
++1
+2
+Engaged
+1
+1
+550
+5
+Pierce 3, Vicious 1, 
+FiB:48
+
+Activv1 Riot Shield
+Melee
++0
+6
+Engaged
+5
+1
+300
+4
+Cumbersome 3, Defensive 2, Deflection 2, Disorient 1, 
+FH:42
+
+Ancient Sword
+Lightsaber
+2
+3
+Engaged
+3
+1
+350
+8
+Defensive 1, 
+F-BGR:31, F-CRB:172
+
+Arg'garok
+Melee
++5
+3
+Engaged
+5
+3
+1,000
+7
+Cumbersome 5, Inaccurate 1, Pierce 1, Sunder, 
+LoNH:103
+
+Bardottan Electrolance
+Melee
++2
+3
+Engaged
+3
+2
+300
+5
+Defensive 2, Stun Setting, 
+NoP:103
+
+Baton
+Melee
++2
+5
+Engaged
+0
+0
+0
+0
+Disorient 2, 
+EV:46
+
+Beastmaster's Vibro-Glaive
+Melee
++2
+2
+Engaged
+3
+3
+975
+6
+Defensive 2, Pierce 3, 
+LoNH:103
+
+Blade-breaker
+Melee
++0
+4
+Engaged
+1
+1
+250
+5
+Defensive 2, Pierce 1, Sunder, 
+FC:46
+
+Borstel Neuronic Lash
+Melee
++1
+5
+Short
+1
+1
+800
+7
+Ensnare 1, Stun 3, Stun Damage, 
+DoH:44
+
+Ceremonial Blade
+Melee
++2
+3
+Engaged
+2
+3
+650
+7
+Defensive 1, 
+DA:46
+
+Combat Knife
+Melee
++1
+3
+Engaged
+1
+0
+25
+1
+
+A-BGR:31, A-CRB:181, E-BGR:31, E-CRB:166, F-CRB:172
+
+Corellia Mining Corporation J-7B Beamdrill
+Melee
+9
+2
+Engaged
+6
+0
+3,000
+5
+Breach 1, Cumbersome 4, Inaccurate 2, Sunder, 
+SoF:98
+
+Corellian Cutlass
+Melee
++2
+3
+Engaged
+2
+1
+300
+3
+Defensive 1, Vicious 1, 
+SoF:97
+
+Cortosis Shield
+Melee
++0
+6
+Engaged
+4
+0
+900
+7
+Cortosis, Cumbersome 3, Defensive 2, Deflection 2, 
+F-CRB:172
+
+Cortosis Sword
+Melee
++2
+3
+Engaged
+3
+2
+1,350
+7
+Cortosis, Defensive 1, 
+F-CRB:173
+
+Czerka "Czerhander" VX Vibro-Greatsword
+Melee
++3
+2
+Engaged
+4
+3
+900
+6
+Defensive 1, Pierce 2, Vicious 2, 
+DC:49
+
+Czerka "Peacekeeper" Stun Baton
+Melee
++2
+4
+Engaged
+3
+2
+500
+3
+Cumbersome 3, Disorient 2, Stun 3, 
+ND:48
+
+Diiro
+Melee
++1
+3
+Engaged
+2
+0
+250
+2
+Defensive 1, 
+CotG:26
+
+Drall Flashstick
+Melee
++2
+-
+Engaged
+2
+2
+375
+4
+Disorient 3, Stun Damage, 
+SoF:98
+
+Electromag-Pulse Disruptor
+Melee
+5
+4
+Engaged
+1
+0
+180
+5
+Disorient 1, Ion, 
+SM:44
+
+Electronet
+Melee
++6
+6
+Engaged
+2
+0
+350
+6
+Ensnare 5, Knockdown, Limited Ammo 1, Stun Damage, 
+KtP:44
+
+Electrostaff
+Melee
++4
+3
+Engaged
+4
+3
+4,500
+6
+Cortosis, Cumbersome 3, Linked 1, Stun Setting, Unwieldy 3, 
+F-CRB:173
+
+Energy Buckler
+Melee
++0
+5
+Engaged
+1
+0
+1,000
+7
+Concussive 1, Defensive 1, Deflection 1, 
+KtP:44
+
+Explorer's Knife
+Melee
++1
+3
+Engaged
+2
+0
+100
+3
+Vicious 1, 
+SS:43
+
+Fear Stick
+Melee
+5
+-
+Engaged
+1
+0
+1,500
+8
+Limited Ammo 3, Pierce 1, Stun Damage, 
+DoH:44
+
+Force Pike
+Melee
++3
+2
+Engaged
+3
+3
+500
+4
+Pierce 2, Stun Setting, 
+A-BGR:31, A-CRB:181, E-CRB:166, F-BGR:31, F-CRB:174
+
+Gaffi Stick
+Melee
++2
+3
+Engaged
+3
+0
+100
+2
+Defensive 1, Disorient 3, 
+E-CRB:166
+
+Gungan Electropole
+Melee
++2
+4
+Engaged
+3
+2
+450
+5
+Stun 3, Stun Setting, 
+NoP:103
+
+Gungan Personal Energy Shield
+Melee
+-1
+5
+Engaged
+4
+0
+1,000
+7
+Defensive 2, Deflection 2, 
+NoP:103
+
+Ion Pike
+Melee
+10
+3
+Engaged
+2
+1
+750
+6
+Inaccurate 1, Ion, Pierce 4, 
+ND:48
+
+Karflo Corporation G9-GP Pulse Drill
+Melee
+5
+4
+Engaged
+5
+2
+1,100
+4
+Breach 1, Cumbersome 3, Inaccurate 2, 
+SoR:139*, EtU:42
+
+Koromondain SVT-300 Stun Cloak
+Brawl
+7
+3
+Engaged
+2
+0
+1,500
+4
+Limited Ammo 3, Stun Damage, 
+SoR:108
+
+Kyuzo War Shield
+Melee
++1
+4
+Engaged
+3
+0
+750
+8
+Cumbersome 3, Defensive 1, Deflection 2, Disorient 1, 
+FiB:47
+
+Laserhone Huntsman Vibrospear
+Melee
++3
+3
+Engaged
+4
+2
+950
+6
+Pierce 2, Vicious 2, 
+EtU:43
+
+Laserhone Trailbreaker Poleaxe
+Melee
++3
+3
+Engaged
+5
+1
+610
+4
+Defensive 1, Pierce 2, Unwieldy 2, 
+SS:43
+
+Lightsaber
+Lightsaber
+10
+1
+Engaged
+1
+0
+(R) 10,000
+10
+Breach 1, Sunder, Vicious 2, 
+A-CRB:182, E-CRB:167
+
+Longeing Whip
+Melee
++1
+5
+Short
+3
+1
+600
+4
+Ensnare 2, Stun Damage, 
+SoT:41
+
+Merr-Sonn Model 14 "Stalker" Vibrospear
+Melee
++2
+2
+Engaged
+4
+2
+490
+6
+Defensive 1, Pierce 2, Vicious 2, 
+SS:43
+
+Mk VIII Vibrosaw
+Melee
++4
+2
+Engaged
+6
+3
+1,500
+5
+Cumbersome 5, Pierce 2, Sunder, Vicious 2, 
+EtU:43
+
+Mon Calamari Coral Pike
+Melee
++3
+2
+Engaged
+3
+3
+1,000
+6
+Defensive 1, Pierce 2, 
+SoR:108
+
+Mon Calamari Energy Lance
+Melee
++3
+2
+Engaged
+4
+2
+1,500
+6
+Cumbersome 3, Pierce 3, 
+SoR:108, SS:44
+
+Morgukai Cortosis Staff
+Melee
+8
+1
+Engaged
+3
+0
+(R) 9,000
+10
+Breach 1, Cortosis, Defensive 1, 
+LoNH:104
+
+MSW-12 NanoDagger
+Melee
++1
+2
+Engaged
+1
+0
+700
+6
+Pierce 5, Vicious 1, 
+SS:44
+
+MSW-9 Molecular Stiletto
+Melee
++0
+2
+Engaged
+1
+1
+500
+5
+Pierce 5, Vicious 1, 
+FH:43
+
+Needle Gloves
+Brawl
++0
+5
+Engaged
+1
+0
+(R) 750
+5
+
+DA:46
+
+Neuronic Whip
+Melee
++1
+4
+Short
+1
+1
+750
+6
+Disorient 4, Ensnare 1, Stun Damage, 
+LoNH:104
+
+Parrying Dagger
+Melee
++1
+3
+Engaged
+1
+0
+150
+5
+Defensive 1, 
+KtP:45
+
+Parrying Vibroblade
+Melee
++1
+2
+Engaged
+1
+2
+400
+6
+Defensive 1, Pierce 2, Vicious 1, 
+KtP:45
+
+Punch Dagger
+Melee
++1
+3
+Engaged
+1
+1
+75
+4
+Pierce 1, 
+FC:46
+
+Refined Cortosis Staff
+Melee
++3
+5
+Engaged
+4
+2
+2,500
+7
+Cortosis, 
+F-CRB:173
+
+Rodian Cryogen Whip
+Melee
++2
+3
+Short
+1
+1
+1,550
+7
+Ensnare 1, Vicious 2, Unwieldy 3, 
+KtP:45
+
+Ryyk Blade
+Melee
++2
+2
+Engaged
+3
+3
+400
+8
+Cumbersome 3, Defensive 1, Superior, 
+DC:48
+
+Selonian Glaive
+Melee
++3
+3
+Engaged
+5
+3
+1,200
+7
+Defensive 1, Pierce 3, 
+SoF:98
+
+Shistavanen Combat Utility Vibroblade
+Melee
++1
+2
+Engaged
+2
+0
+600
+7
+Pierce 2, Vicious 1, 
+FiB:48
+
+Sith Shield
+Melee
++1
+4
+Engaged
+3
+2
+(R) 10,000
+10
+Cortosis, Defensive 1, Deflection 2, Vicious 1, 
+KtP:45
+
+Snap Baton
+Melee
++1
+4
+Engaged
+1
+1
+50
+4
+Disorient 2, 
+KtP:45
+
+SoroSuub "Persuader" Animal Shock Prod
+Melee
++2
+4
+Engaged
+4
+2
+1,000
+4
+Concussive 1, Slow-Firing 1, Stun Setting, 
+SoT:41
+
+SoroSuub CS-12 Stun Master
+Melee
+6
+3
+Engaged
+1
+0
+575
+3
+Disorient 2, Stun Damage, 
+SoR:108
+
+SoroSuub Model 7 Therm-Ax
+Melee
++2
+3
+Engaged
+4
+3
+(R) 850
+5
+Burn 2, Sunder, Vicious 1, 
+DC:49
+
+Staff of Office
+Melee
++2
+4
+Engaged
+3
+2
+350
+6
+Defensive 1, Disorient 2, 
+DA:46
+
+Stealth Vibroknife
+Melee
++1
+2
+Engaged
+1
+1
+350
+6
+Pierce 1, Vicious 1, 
+DA:46
+
+Sword Cane
+Melee
++2
+3
+Engaged
+2
+1
+475
+6
+Defensive 1, 
+DA:47
+
+Thunderbolt Shock Prod
+Melee
+5
+3
+Engaged
+2
+2
+875
+6
+Concussive 1, Stun Damage, 
+FH:43
+
+Training Stick
+Lightsaber
++1
+5
+Engaged
+2
+0
+35
+3
+Accurate 1, Disorient 1, Stun Damage, 
+NoP:104
+
+Truncheon
+Melee
++2
+5
+Engaged
+2
+0
+15
+1
+Disorient 2, 
+A-BGR:31, A-CRB:182, E-BGR:31, E-CRB:167, F-BGR:31, F-CRB:174
+
+Tuskbeast Pike
+Melee
++4
+3
+Engaged
+3
+1
+1,050
+8
+Defensive 1, Knockdown, 
+LoNH:104
+
+Vibro-ax
+Melee
++3
+2
+Engaged
+4
+3
+750
+5
+Pierce 2, Sunder, Vicious 3, 
+A-CRB:182, E-BGR:31, E-CRB:167, F-CRB:175
+
+Vibro-Machete
+Melee
++2
+2
+Engaged
+2
+1
+550
+4
+Pierce 1, Sunder, Vicious 1, 
+SS:44
+
+Vibroknife
+Melee
++1
+2
+Engaged
+1
+2
+250
+3
+Pierce 2, Vicious 1, 
+A-BGR:31, A-CRB:182, E-BGR:31, E-CRB:167, F-BGR:31, F-CRB:175
+
+Vibrorapier
+Melee
++2
+2
+Engaged
+2
+2
+1,200
+7
+Defensive 1, Pierce 5, 
+FC:46
+
+Vibrosword
+Melee
++2
+2
+Engaged
+3
+3
+750
+5
+Pierce 2, Vicious 1, Defensive 1, 
+A-CRB:183, E-CRB:167, F-CRB:175
+
+Voss Warspear
+Melee
++2
+4
+Engaged
+4
+2
+215
+8
+Defensive 2, 
+NoP:104
+
+Weik Greatsword
+Melee
++4
+3
+Engaged
+4
+2
+315
+8
+Cumbersome 4, Defensive 1, 
+NoP:104
+
+Z2 Stun Baton
+Melee
++2
+6
+Engaged
+2
+2
+200
+4
+Disorient 2, Stun Damage, 
+FH:43
+
+Z6 Riot Control Baton
+Melee
++2
+5
+Engaged
+2
+1
+1,000
+4
+Cortosis, Disorient 2, Stun Damage, 
+DoH:44
+Explosives
+Anti-Personnel Mine
+Mechanics
+12
+3
+Engaged
+3
+0
+(R) 850
+6
+Blast 4, Vicious 4, Limited Ammo 1, 
+A-CRB:179
+
+Anti-Vehicle Mine
+Mechanics
+25
+2
+Engaged
+4
+0
+(R) 1,400
+6
+Blast 2, Breach 4, Limited Ammo 1, 
+A-CRB:179
+
+Brennkeyes Syndicate Knockout Mine
+Ranged [Light]
+6
+-
+Short
+1
+0
+200
+6
+Stun Damage, Limited Ammo 1, 
+DA:45
+
+Mini-Torpedo, Anti-Personnel
+Ranged [Heavy]
+8
+2
+Long
+1
+0
+100
+5
+Blast 6, Limited Ammo 1, 
+SoR:107
+
+Mini-Torpedo, Armor Piercing
+Ranged [Heavy]
+12
+3
+Medium
+1
+0
+150
+6
+Blast 2, Limited Ammo 1, Pierce 4, 
+SoR:107
+
+Mini-Torpedo, Ink
+Ranged [Heavy]
+0
+-
+Long
+1
+0
+50
+5
+Disorient 4, Limited Ammo 1, Blast 0
+SoR:107
+
+Mini-Torpedo, Ion
+Ranged [Heavy]
+10
+2
+Long
+1
+0
+150
+6
+Blast 8, Ion, Limited Ammo 1, 
+SoR:107
+
+Mini-Torpedo, Net
+Ranged [Heavy]
+0
+-
+Medium
+1
+0
+100
+5
+Ensnare 6, Limited Ammo 1, Blast 0
+SoR:107
+
+Mini-Torpedo, Stun
+Ranged [Heavy]
+8
+2
+Long
+1
+0
+300
+5
+Blast 4, Concussive 2, Limited Ammo 1, Stun Damage, 
+SoR:107
+
+Mon Cal Defenses Mini-Torpedo Launcher
+Ranged [Heavy]
+8
+2
+Long
+4
+4
+2,000
+6
+Blast 6, Cumbersome 2, Limited Ammo 2, 
+SoR:107
+
+Spore/B Stun Grenade
+Ranged [Light]
+6
+3
+Short
+1
+0
+400
+5
+Blast 6, Concussive 2, Limited Ammo 1, Stun Damage, 
+SoR:107
+Grenades
+Armor Piercing Grenade
+Ranged [Light]
+16
+3
+Short
+1
+0
+100
+6
+Blast 4, Limited Ammo 1, Pierce 3, 
+A-BGR:31, A-CRB:179
+
+Frag Grenade
+Ranged [Light]
+8
+4
+Short
+1
+0
+50
+5
+Blast 6, Limited Ammo 1, 
+A-BGR:31, A-CRB:178, E-BGR:31, E-CRB:165, F-BGR:31, F-CRB:170
+
+Golan Arms MK.4 Heavy Fragmentation Grenade
+Ranged [Light]
+9
+4
+Short
+1
+0
+(R) 75
+5
+Blast 7, Limited Ammo 1, Cumbersome 2, 
+DC:47
+
+Goseia HIC "Mercy" Grenade
+Ranged [Light]
+5
+-
+Short
+1
+0
+175
+8
+Blast 5, Stun Damage, Limited Ammo 1, 
+DA:45
+
+Kirgo Blastworks Lightning 22 Ion Grenade
+Ranged [Light]
+10
+5
+Short
+1
+0
+65
+4
+Blast 7, Disorient 5, Ion, Limited Ammo 1, 
+DC:46
+
+Kirgo Blastworks Nova40 Plasma Grenade
+Ranged [Light]
+12
+3
+Short
+1
+0
+125
+6
+Blast 10, Limited Ammo 1, 
+DC:47
+
+Knockout Grenade
+Ranged [Light]
+12
+-
+Short
+1
+0
+120
+5
+Blast 10, Stun Damage, Limited Ammo 1, 
+FC:45
+
+Merr-Sonn D-24 Inferno Grenade
+Ranged [Light]
+8
+3
+Short
+1
+0
+(R) 75
+5
+Blast 5, Burn 2, Limited Ammo 1, 
+DC:46
+
+Merr-Sonn G2 Concussion Grenade
+Ranged [Light]
+10
+5
+Short
+1
+0
+(R) 100
+5
+Blast 8, Concussive 2, Disorient 5, Limited Ammo 1, 
+DC:46
+
+Merr-Sonn Munitions G-20 Glop Grenade
+Ranged [Light]
+0
+-
+Short
+1
+0
+100
+6
+Ensnare 3, Blast -
+EtU:42
+
+Merr-Sonn N-4 Noise Grenade
+Ranged [Light]
+4
+6
+Short
+1
+0
+150
+5
+Blast 4, Stun Damage, Concussive 1, Limited Ammo 1, 
+DA:44
+
+Poison Gas Grenade
+Ranged [Light]
+0
+-
+Short
+1
+0
+50
+5
+Blast 2, Limited Ammo 1, 
+LoNH:102
+
+Shaped Thermal Grenade
+Ranged [Light]
+20
+2
+Short
+1
+0
+(R) 3,500
+8
+Breach 2, Limited Ammo 1, Vicious 5, 
+FiB:47
+
+SoroSuub Wipe-3 Data-Purge Grenade
+Ranged [Light]
+0
+-
+Short
+1
+0
+100
+7
+Limited Ammo 1, 
+DA:45
+
+Speizoc Spore Stun Grenade
+Ranged [Light]
+8
+-
+Short
+1
+0
+100
+7
+Blast 7, Limited Ammo 1, Pierce 3, Stun Damage, 
+DoH:43
+
+Stun Grenade
+Ranged [Light]
+8
+-
+Short
+1
+0
+75
+4
+Disorient 3, Stun Damage, Blast 8, Limited Ammo 1, 
+A-BGR:31, A-CRB:179, E-BGR:31, E-CRB:165, F-BGR:31, F-CRB:170
+
+Tenloss Spray Foam Grenade
+Ranged [Light]
+0
+-
+Short
+1
+0
+150
+5
+Ensnare 4, Limited Ammo 1, 
+DoH:43
+
+Thermal Detonator
+Ranged [Light]
+20
+2
+Short
+1
+0
+(R) 2,000
+8
+Blast 15, Breach 1, Vicious 4, Limited Ammo 1, 
+A-CRB:180, E-BGR:31, E-CRB:165, F-CRB:170
+Portable Missiles
+Golan Arms MK.10 Concussion Missle
+Gunnery
+14
+4
+Extreme
+0
+0
+200
+8
+Blast 10, Concussive 3, Disorient 5, Guided 2, 
+DC:47
+
+Merr-Sonn C-88 Fragmentation Missile
+Gunnery
+12
+4
+Extreme
+0
+0
+75
+7
+Blast 12, Guided 3, 
+DC:47
+
+Merr-Sonn C908 Incendiary Missile
+Gunnery
+10
+3
+Extreme
+0
+0
+(R) 145
+7
+Blast 10, Burn 3, Guided 2, 
+DC:47
+
+Merr-Sonn SK-44 Plasma Missile
+Gunnery
+16
+3
+Medium
+0
+0
+(R) 160
+8
+Blast 14, Cumbersome 3, Inaccurate 1, Pierce 2, 
+DC:47
+Brawl
+Backhand Shock Gloves
+Brawl
++1
+3
+Engaged
+0
+2
+2,000
+4
+Concussive 1, Stun Damage, Slow-Firing 1, 
+FH:42
+
+Brass Knuckles
+Brawl
++1
+4
+Engaged
+1
+0
+25
+0
+Disorient 3, 
+A-BGR:31, A-CRB:180, E-BGR:31, E-CRB:166, F-BGR:31, F-CRB:171
+
+Czerka Vibroknuckles
+Brawl
++1
+2
+Engaged
+1
+0
+350
+4
+Pierce 1, Vicious 1, 
+DC:48
+
+Outlawtech Blast Knuckles
+Brawl
++4
+4
+Engaged
+2
+0
+(R) 500
+6
+Inaccurate 1, 
+DC:48
+
+Prax Arms S-1 Vamblade
+Brawl
++1
+3
+Engaged
+2
+1
+500
+4
+Defensive 1, 
+DC:48
+
+Refined Cortosis Gauntlets
+Brawl
++1
+4
+Engaged
+3
+2
+1,000
+7
+Cortosis, 
+F-CRB:171
+
+Shield Gauntlet
+Brawl
++1
+5
+Engaged
+1
+0
+1,500
+8
+Deflection 2, Stun Damage, 
+KtP:44
+
+Shock Boots
+Brawl
++0
+5
+Engaged
+2
+0
+1,250
+5
+Disorient 3, Stun 3, 
+FC:45
+
+Shock Gloves
+Brawl
++0
+5
+Engaged
+0
+1
+300
+2
+Stun 3, 
+A-CRB:181, E-CRB:166, F-CRB:171
+Thrown
+Ascian Throwing Dagger
+Ranged [Light]
+1
+2
+Short
+1
+0
+65
+7
+Pierce 2, Limited Ammo 1, 
+FC:45
+
+Bola
+Ranged [Light]
+2
+-
+Short
+1
+2
+20
+2
+Ensnare 3, Knockdown, Limited Ammo 1, 
+E-CRB:164
+
+Net
+Ranged [Light]
+2
+-
+Short
+3
+2
+20
+2
+Ensnare 3, Knockdown, Limited Ammo 1, 
+E-CRB:164
+Other
+"Firecaller" Light Flame Projector
+Ranged [Light]
+5
+2
+Short
+4
+1
+(R) 1,200
+7
+Blast 2, Burn 2, Pierce 2, Vicious 3, 
+ND:44
+
+Aurateran Boomerang
+Ranged [Light]
+4
+5
+Medium
+1
+0
+65
+6
+Guided 1, Limited Ammo 1, 
+NoP:102
+
+Bola Carbine
+Ranged [Heavy]
+8
+3
+Medium
+3
+3
+1,600
+6
+Accurate 1, Ensnare 1, 
+SoR:104
+
+Corellian Compound Bow
+Ranged [Heavy]
+5
+5
+Medium
+3
+1
+200
+5
+Cumbersome 3, Knockdown, Limited Ammo 1, Pierce 1, 
+SoF:97
+
+CSPL-12 Projectile Launcher (Frag Grenade)
+Ranged [Light]
+8
+4
+Medium
+2
+2
+(R) 1,200
+6
+Blast 6, Limited Ammo 3, 
+FiB:47
+
+Czerka CZ-28 Flamestrike
+Gunnery
+9
+2
+Short
+8
+3
+(R) 2,000
+8
+Burn 4, Blast 9, Cumbersome 3, Vicious 2, 
+DC:45
+
+Explosive Tipped Arrow
+Ranged [Heavy]
+6
+3
+Medium
+0
+0
+50
+5
+Blast 4, Limited Ammo 1, 
+SS:41
+
+Field Sports FS19 Compound Bow
+Ranged [Heavy]
+5
+4
+Medium
+4
+2
+500
+7
+Cumbersome 3, Limited Ammo 1, Pierce 1, Vicious 2, 
+SS:41
+
+Flame Projector
+Ranged [Heavy]
+8
+2
+Short
+6
+2
+1,000
+6
+Burn 3, Blast 8, 
+A-CRB:178, E-CRB:165
+
+Golan Arms FC1 Flechette Launcher (Anti-Infantry)
+Gunnery
+8
+3
+Medium
+6
+4
+(R) 2,500
+6
+Blast 8, Cumbersome 3, Limited Ammo 4, Pierce 6, Prepare 1, Vicious 1, 
+DC:45
+
+Golan Arms FC1 Flechette Launcher (Anti-Vehicle)
+Gunnery
+10
+2
+Medium
+6
+4
+(R) 2,500
+6
+Breach 2, Cumbersome 3, Limited Ammo 4, Prepare 1, Vicious 3, 
+DC:45
+
+Grapnel-Harpoon Launcher
+Ranged [Light]
+3
+5
+Medium
+2
+0
+450
+5
+Ensnare 3, 
+ND:44
+
+Gungan Atlatl
+Ranged [Light]
+5
+3
+Medium
+2
+0
+100
+7
+Accurate 1, Burn 1, Ion, Limited Ammo 1, 
+NoP:102
+
+Gungan Plasma Ball
+Ranged [Light]
+5
+3
+Short
+0
+0
+20
+7
+Burn 1, Ion, Limited Ammo 1, 
+NoP:102
+
+Hand Grinder
+Melee
++2
+4
+Engaged
+5
+4
+500
+3
+Cumbersome 3, Prepare 1, Vicious 4, 
+SM:47
+
+Incendiary Arrow
+Ranged [Heavy]
+6
+5
+Medium
+0
+0
+60
+5
+Burn 2, Limited Ammo 1, 
+SS:41
+
+Ion Thruster Gun
+Ranged [Heavy]
+5
+4
+Short
+8
+0
+300
+2
+Concussive 1, Cumbersome 5, Ion, Prepare 1, 
+SM:45
+
+KWS Mk I Saberdart
+Ranged [Light]
+1
+-
+Long
+3
+2
+1,600
+9
+Limited Ammo 1, 
+EV:41
+
+LJ-50 Concussion Rifle
+Ranged [Heavy]
+10
+2
+Medium
+6
+2
+(R) 2,000
+7
+Blast 4, Concussive 2, Cumbersome 3, Knockdown, Limited Ammo 4, 
+FiB:47
+
+Longbow
+Ranged [Heavy]
+5
+5
+Long
+5
+1
+120
+4
+Cumbersome 3, Limited Ammo 1, Pierce 1, 
+NoP:102
+
+Loronar Cryoban Rifle
+Ranged [Light]
+6
+-
+Medium
+2
+1
+450
+6
+Ensnare 1, Pierce 5, Stun Damage, Pierce 0 vs armor that removes [SETBACK] due to cold. Melee attacks against a target struck by the Loronar Cryoban in the same round add [BOOST][BOOST].
+DoH:42
+
+Loronar Spray Rifle
+Ranged [Heavy]
+7
+-
+Medium
+4
+1
+2,700
+6
+Burn 3, Limited Ammo 1, Pierce 3, Prepare 1, Stun Damage, 
+
+
+Malaxan Z50 Grenade Launcher
+Gunnery
+8
+4
+Medium
+5
+3
+(R) 1,250
+4
+Blast 6, Cumbersome 3, Limited Ammo 6, 
+DC:45
+
+Micro-tools and drills
+Melee
+2
+3
+Engaged
+0
+0
+0
+0
+Pierce 2, 
+SM:53
+
+Missile Tube
+Gunnery
+20
+2
+Extreme
+7
+4
+(R) 7,500
+8
+Blast 10, Cumbersome 3, Guided 3, Breach 1, Prepare 1, Limited Ammo 6, 
+A-CRB:178, E-CRB:165, F-CRB:170
+
+Multi-Goo Gun
+Ranged [Light]
+2
+-
+Short
+2
+1
+250
+1
+Disorient 1, Ensnare 4, Knockdown, 
+SM:45
+
+Net Arrow
+Ranged [Heavy]
+2
+-
+Medium
+0
+0
+30
+5
+Ensnare 2, Limited Ammo 1, 
+SS:41
+
+Nova Design "Impact" Repulsor Cannon
+Ranged [Heavy]
+3
+6
+Medium
+5
+1
+1,000
+7
+Blast 3, Concussive 1, Knockdown, Prepare 1, Slow-Firing 1, 
+ND:44
+
+NX-14 Needler
+Ranged [Light]
+5
+-
+Short
+1
+1
+(R) 650
+7
+Pierce 3, 
+EV:42
+
+Palandrix AO14 "Aranea" Net Gun
+Ranged [Heavy]
+3
+-
+Medium
+4
+2
+775
+5
+Ensnare 5, Limited Ammo 1, 
+SS:42
+
+Palandrix AO14 "Aranea" Net Gun
+Ranged [Heavy]
+3
+-
+Short
+4
+2
+750
+5
+Ensnare 5, 
+EtU:42
+
+R-88 Suppressor Riot Rifle
+Ranged [Heavy]
+8
+-
+Medium
+4
+2
+2,000
+5
+Blast 5, Disorient 3, Stun Damage, 
+FH:40
+
+Repulsor Gun
+Ranged [Heavy]
+3
+5
+Short
+5
+0
+200
+3
+Knockdown, 
+SM:46
+
+Rivet Gun
+Ranged [Light]
+4
+3
+Engaged
+4
+1
+900
+1
+Ensnare 1, Inaccurate 2, Limited Ammo 1, 
+SM:46
+
+SSB-1 Static Pistol
+Ranged [Light]
+2
+4
+Short
+2
+1
+850
+7
+Disorient 1, Stun 8, 
+FC:45
+
+Stokhli Spray Stick
+Ranged [Heavy]
+0
+-
+Long
+4
+0
+2,500
+8
+Accurate 2, Ensnare 4, Slow-Firing 1, Stun 8, 
+FH:41
+
+Stun Arrow
+Ranged [Heavy]
+6
+-
+Medium
+0
+0
+60
+6
+Limited Ammo 1, Stun Damage, 
+SS:41
+
+Styanax Lance
+Ranged [Heavy]
+8
+3
+Short
+8
+2
+200
+8
+Cumbersome 4, Limited Ammo 1, Pierce 3, Vicious 1, 
+SoF:97
+
+TaggeCo CryoBan Projector
+Ranged [Heavy]
+6
+2
+Short
+3
+0
+500
+4
+Blast 6, Cumbersome 3, Vicious 2, 
+FC:45
+
+Tangle Gun 7
+Ranged [Heavy]
+1
+4
+Short
+2
+1
+500
+5
+Ensnare 3, 
+FH:42
+
+Tenloss L70 Acid Projector
+Ranged [Heavy]
+6
+2
+Short
+4
+1
+1,250
+7
+Blast 6, Burn 3, Vicious 1, 
+LoNH:102
+
+Welding Rod
+Melee
+3
+2
+Engaged
+4
+0
+1,750
+5
+Breach 1, Inaccurate 2, 
+SM:47
+Lightsaber
+Basic Lightsaber
+Lightsaber
+6
+2
+Engaged
+1
+5
+(R) 9,300
+10
+Breach 1, Sunder, 
+F-BGR:31*, F-CRB:176
+
+Crossguard Lightsaber
+Lightsaber
+6
+2
+Engaged
+1
+4
+(R) 9,700
+10
+Breach 1, Defensive 1, Sunder, 
+EV:42
+
+Double-Bladed Lightsaber
+Lightsaber
+6
+2
+Engaged
+2
+4
+(R) 18,600
+10
+Breach 1, Linked 1, Sunder, Unwieldy 3, 
+F-CRB:176
+
+Guard Shoto
+Lightsaber
+5
+2
+Engaged
+1
+3
+(R) 9,700
+10
+Breach 1, Defensive 1, Deflection 2, Sunder, Unwieldy 4, 
+KtP:46
+
+Lightsaber Pike
+Lightsaber
+6
+2
+Engaged
+3
+3
+(R) 9,600
+10
+Breach 1, Cumbersome 3, Defensive 1, Sunder, 
+F-CRB:176
+
+Lightwhip
+Lightsaber
+4
+4
+Short
+1
+1
+(R) 11,400
+10
+Ensnare 1, Pierce 5, Unwieldy 4, 
+EV:42
+
+Philaxian Phase-Knife
+Lightsaber
++1
+3
+Engaged
+1
+1
+1,500
+8
+Pierce 4, Vicious 1, 
+EV:43
+
+Shoto
+Lightsaber
+5
+2
+Engaged
+1
+3
+(R) 9,300
+10
+Accurate 1, Breach 1, Sunder, 
+F-CRB:177
+
+Temple Guard Lightsaber Pike
+Lightsaber
+6
+2
+Engaged
+2
+4
+(R) 20,000
+10
+Breach 1, Defensive 1, Linked 1, Sunder, Stun 4, Unwieldy 3, 
+KtP:46
+
+Training Lightsaber
+Lightsaber
+6
+-
+Engaged
+1
+5
+400
+6
+Stun Damage, 
+F-CRB:178
+Lightsaber Hilts
+Basic Lightsaber Hilt
+Lightsaber
+0
+-
+Engaged
+1
+5
+300
+5
+
+F-CRB:177
+
+Crossguard Lightsaber Hilt
+Lightsaber
+0
+-
+Engaged
+1
+4
+900
+7
+Defensive 1, 
+EV:42
+
+Double-Bladed Lightsaber Hilt
+Lightsaber
+0
+-
+Engaged
+2
+4
+600
+6
+Linked 1, Unwieldy 3, 
+F-CRB:177
+
+Guard Shoto Hilt
+Lightsaber
+0
+-
+Engaged
+1
+3
+700
+7
+Defensive 1, Deflection 2, Unwieldy 4, 
+KtP:46
+
+Lightsaber Pike Hilt
+Lightsaber
+0
+-
+Engaged
+3
+3
+600
+7
+Cumbersome 3, Defensive 1, 
+F-CRB:177
+
+Shoto Hilt
+Lightsaber
+0
+-
+Engaged
+1
+3
+300
+6
+Accurate 1, 
+F-CRB:177
+
+Temple Guard Lightsaber Pike Hilt
+Lightsaber
+0
+-
+Engaged
+2
+4
+2,000
+9
+Defensive 1, Linked 1, Stun 4, Unwieldy 3, 
+KtP:46
+Micro-Rockets
+Anti-Armor
+Ranged [Heavy]
+8
+4
+Short
+1
+1
+300
+5
+Breach 1, Limited Ammo 1, 
+ND:46
+
+Explosive
+Ranged [Heavy]
+7
+2
+Short
+1
+1
+150
+4
+Blast 6, Limited Ammo 1, 
+ND:46
+
+Flechette
+Ranged [Heavy]
+6
+2
+Short
+1
+1
+175
+5
+Blast 5, Vicious 2, Limited Ammo 1, 
+ND:46
+
+Incendiary
+Ranged [Heavy]
+6
+3
+Short
+1
+1
+175
+5
+Blast 6, Burn 2, Limited Ammo 1, 
+ND:46
+
+Ion
+Ranged [Heavy]
+10
+3
+Short
+1
+1
+100
+6
+Ion, Sunder, Limited Ammo 1, 
+ND:47
+
+Micro-Rocket Launcher Pistol
+Ranged [Light]
+0
+-
+Medium
+3
+0
+500
+7
+
+ND:47

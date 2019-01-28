@@ -1,0 +1,765 @@
+
+Armor
+Defense
+Soak
+Price
+Encum
+HP
+Rarity
+Index
+
+A/KT Mountaineer Armor
+1
+1
+1,800
+3
+2
+6
+EtU:45
+
+A/KT Shockrider Crash Suit
+0
+2
+3,000
+2
+1
+3
+EtU:45
+
+A/KT Shockrider Crash Suit
+0
+2
+3,000
+2
+1
+3
+SoT:42
+
+A/KT Tracker Utility Vest
+0
+0
+100
+0
+1
+2
+EtU:45
+
+A/KT Wing Commander Armored Flight Suit
+1
+1
+1,500
+3
+1
+6
+SoT:42
+
+Adverse Environment Gear
+0
+1
+500
+2
+1
+1
+A-CRB:184, E-CRB:169, F-CRB:178
+
+Alliance Light Stealth Armor
+0
+2
+(R) 2,200
+3
+2
+7
+FiB:49
+
+AniPro Layered Beast Armor
+1
+1
+2,500
+4
+0
+5
+SS:44
+
+Arakyd Industries PX-1 "Battlement" Powered Armor
+1
+3
+(R) 9,000
+3
+3
+9
+DC:51
+
+Armored Clothing
+1
+1
+1,000
+3
+1
+6
+A-BGR:34, A-CRB:184, E-BGR:34, E-CRB:169, F-BGR:34, F-CRB:178
+
+Armored Drop Suit
+1
+1
+7,500
+6
+2
+7
+ND:49
+
+Armored Robes
+1
+2
+(R) 4,500
+5
+2
+8
+F-BGR:34, F-CRB:179
+
+Banal Apparel
+0
+0
+25
+0
+0
+0
+DA:47
+
+Beast-Hide Warrior's Armor
+0
+1
+300
+3
+0
+2
+DC:49, SS:44
+
+Biogel Suit
+0
+2
+350
+6
+0
+1
+DoH:45
+
+Blast Vest
+0
+1
+200
+3
+1
+3
+E-CRB:405, FC:47
+
+Caballerin-Series Riding Tack
+0
+0
+250
+2
+0
+4
+SoT:42
+
+Capari-Series Padded Beast Armor
+0
+2
+2,500
+4
+0
+5
+SoT:43
+
+Cargo Clothing
+0
+0
+30
+1
+0
+0
+DA:47
+
+Catch Vest
+0
+2
+300
+1
+0
+9
+SoF:99
+
+Chitin Armor
+0
+2
+600
+4
+1
+6
+SS:45
+
+Cloaking Coat
+0
+1
+(R) 550
+4
+1
+8
+SM:47
+
+Concealing Robes
+0
+1
+150
+1
+0
+2
+F-BGR:34, F-CRB:179
+
+Corellian Arms "Storm" Charge Suit
+0
+2
+2,000
+3
+0
+6
+DC:50
+
+Crash Gear
+0
+1
+550
+1
+1
+3
+EV:43
+
+Cresh "Luck" Armor
+0
+2
+1,000
+4
+1
+5
+KtP:47
+
+Creshaldyne Mk.IV Riot Armor
+1
+1
+(R) 1,850
+3
+1
+6
+FH:44
+
+Creshaldyne Survivalist Armor
+0
+1
+350
+3
+2
+6
+SS:45
+
+Destri-Series Laminate Beast Armor
+0
+4
+8,500
+7
+1
+7
+SoT:43
+
+Diplomat's Robes
+0
+0
+400
+2
+0
+6
+DA:47
+
+Enviro-Suit
+0
+2
+750
+2
+1
+2
+EtU:44
+
+Flare Jacket
+0
+1
+1,500
+3
+0
+8
+DA:48
+
+Formal Council Armor
+0
+2
+(R) 8,000
+5
+2
+10
+DoH:45
+
+G-suit
+0
+1
+2,000
+2
+1
+3
+EV:44
+
+H-Series Megafauna Carriage
+1
+0
+5,500
+5
+2
+7
+SoT:43
+
+Hauling Harness
+1
+1
+1,000
+3
+2
+6
+DA:48
+
+Heavy Battle Armor
+1
+2
+(R) 5,000
+6
+4
+7
+A-BGR:34, A-CRB:184, E-BGR:34, E-CRB:170, KtP:47
+
+Heavy Clothing
+0
+1
+50
+1
+0
+0
+A-BGR:34, A-CRB:185, E-BGR:34, E-CRB:169, F-BGR:34, F-CRB:180
+
+Holographic Costume
+1
+0
+750
+2
+0
+8
+DA:48
+
+Hunter's Trophy Armor (completed)
+0
+2
+(R) 2,000
+4
+1
+9
+ND:49
+
+Hunter's Trophy Armor (custom-made)
+0
+2
+(R) 1,000
+4
+1
+6
+ND:49
+
+Hutt Shell Armor
+2
+2
+(R) 25,000
+6
+4
+9
+LoNH:104
+
+Imperial Hazard Trooper Armor
+0
+3
+(R) 18,000
+4
+3
+8
+FiB:49
+
+Imperial Storm Commando Armor
+0
+2
+(R) 5,000
+4
+4
+9
+FiB:49
+
+Individual Field Disruptor
+1
+0
+(R) 9,500
+0
+0
+7
+DoH:45
+
+Jedi Battle Armor
+1
+2
+(R) 7,500
+6
+4
+9
+KtP:47
+
+Jedi Temple Guard Armor
+2
+1
+(R) 12,000
+4
+3
+10
+KtP:48
+
+Jedi Training Suit
+0
+2
+(R) 400
+6
+0
+9
+KtP:48
+
+Kamperdine Custom Tailored Armored Jackets
+0
+2
+6,200
+1
+0
+7
+FH:44
+
+Karflo Thinsuit
+0
+1
+1,200
+0
+0
+6
+FiB:50
+
+Kav-Dann Power Armor
+2
+2
+(R) 13,500
+4
+6
+7
+KtP:48
+
+Koromondain Half-Vest
+1
+1
+500
+3
+0
+5
+KtP:49
+
+Laminate Armor
+0
+2
+2,500
+4
+3
+5
+A-CRB:185, E-CRB:169*
+
+Lector's Outfit
+0
+1
+525
+2
+1
+6
+DA:48
+
+Leviathan Power Armor
+2
+2
+15,000
+8
+1
+8
+SoR:109
+
+Loronar Corporation Mk.II "Steelskin" Anti-Concussive Armor
+0
+3
+(R) 6,500
+8
+1
+7
+DC:51
+
+Mandalorian Armor
+1
+2
+(R) 6,000
+6
+5
+8
+ND:50
+
+Mechanic's Utility Suit
+0
+2
+1,175
+5
+1
+3
+SM:48
+
+Merr-Sonn N-57 Armor
+0
+2
+3,000
+5
+5
+6
+SM:48
+
+Mimetic Suit
+1
+1
+(R) 8,000
+2
+2
+8
+FC:47
+
+Noble Regalia
+0
+0
+750
+1
+3
+7
+DA:49
+
+Nomad Greatcoat
+0
+1
+100
+1
+0
+4
+SoF:99
+
+Pacnorval Defense Systems MK. III Flak Vest
+0
+1
+300
+3
+1
+2
+DC:50
+
+Padded Armor
+0
+2
+500
+2
+0
+1
+A-BGR:34, A-CRB:185, E-BGR:34, E-CRB:169, F-BGR:34, F-CRB:180
+
+Performer's Attire
+0
+0
+50
+0
+0
+4
+DA:49
+
+Personal Deflector Shield
+2
+0
+10,000
+3
+0
+8
+A-CRB:185, E-CRB:170
+
+Pit Crew Coveralls
+0
+1
+150
+1
+1
+2
+EV:44
+
+Polis Massan Bodysuit
+0
+1
+300
+1
+1
+6
+SoR:109
+
+Powered Capacitive Armor
+1
+1
+(R) 3,000
+4
+2
+8
+DA:49
+
+Rebel Heavy Battle Armor
+1
+2
+(R) 6,000
+5
+5
+8
+FiB:50
+
+Reflect Body Glove
+0
+3
+2,500
+2
+0
+5
+DoH:46
+
+Reinforced Environment Gear
+0
+1
+850
+2
+2
+4
+FH:44
+
+Resplendent Robes
+0
+1
+500
+2
+0
+5
+DA:49
+
+Riot Armor
+0
+2
+950
+3
+2
+4
+E-CRB:401, KtP:49
+
+Sakiyan Shadowsuit
+0
+1
+2,500
+1
+1
+8
+LoNH:105
+
+SeaScape Diving Suit
+0
+2
+400
+3
+2
+2
+DoH:46
+
+Second Skin Armor
+1
+1
+2,000
+2
+0
+7
+DA:49
+
+Smuggler's Trenchcoat
+1
+1
+1,650
+3
+0
+7
+FC:47
+
+SoroSuub P-14 Hazardous Industry Suit
+0
+2
+1,000
+7
+2
+4
+SM:48
+
+Taggeco Protector 1 Combat Armor
+1
+2
+(R) 5,500
+4
+3
+7
+DC:51
+
+TX-3 Combat Flight Suit
+1
+0
+(R) 3,000
+4
+2
+6
+SoF:99
+
+Type III "Berethron" Personal Modular Armor
+1
+1
+(R) 1,250
+3
+3
+6
+SoF:99
+
+Verpine Fiber Ultramesh Armor
+0
+1
+3,000
+3
+2
+5
+SoR:109
+
+Zephyr Stealth Suit
+1
+1
+(R) 5,500
+2
+1
+8
+EV:44
