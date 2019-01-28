@@ -13,6 +13,7 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 import os
 from random import SystemRandom
 from string import ascii_letters, digits, punctuation
+from django.utils.translation import gettext_lazy as _
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -22,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
 
-# Key generator by S.Chazalet
+# Key generator by S.Chazallet
 # Make Django secret key secure
 def generate_secret_key():
     """Generate secure secret key that is not visible in a versioned file"""
@@ -52,12 +53,16 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'core',
+    'modeltranslation',
+    'rosetta',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'csvimport.app.CSVImportConf',
 ]
 
 MIDDLEWARE = [
@@ -126,6 +131,10 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
+LANGUAGES = [
+    ('fr', _('French')),
+]
+
 TIME_ZONE = 'UTC'
 
 USE_I18N = True
@@ -139,3 +148,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+LOCALE_PATHS = [BASE_DIR + "locale/"]

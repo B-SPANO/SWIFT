@@ -1,0 +1,351 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-28 16:56+0100\n"
+"PO-Revision-Date: 2019-01-28 17:15+0000\n"
+"Last-Translator: b'  <>'\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Translated-Using: django-rosetta 0.9.1\n"
+
+#: .\SWIFT\settings.py:135
+msgid "French"
+msgstr "Français"
+
+#: .\core\apps.py:7
+msgid "Core Database"
+msgstr "Base de données centrale"
+
+#: .\core\models.py:12 .\core\models.py:20
+msgid "category"
+msgstr "catégorie"
+
+#: .\core\models.py:21
+msgid "categories"
+msgstr "catégories"
+
+#: .\core\models.py:27 .\core\models.py:48
+msgid "name"
+msgstr "nom"
+
+#: .\core\models.py:28 .\core\models.py:55 .\core\models.py:80
+#: .\core\models.py:99 .\core\models.py:188
+msgid "price"
+msgstr "prix"
+
+#: .\core\models.py:29 .\core\models.py:56 .\core\models.py:81
+#: .\core\models.py:100 .\core\models.py:134 .\core\models.py:168
+#: .\core\models.py:189
+msgid "legal"
+msgstr "légal"
+
+#: .\core\models.py:30 .\core\models.py:53 .\core\models.py:78
+#: .\core\models.py:101 .\core\models.py:130 .\core\models.py:164
+msgid "encumberment"
+msgstr "encombrement"
+
+#: .\core\models.py:31 .\core\models.py:57 .\core\models.py:82
+#: .\core\models.py:103 .\core\models.py:136 .\core\models.py:170
+#: .\core\models.py:191
+msgid "rarity"
+msgstr "rareté"
+
+#: .\core\models.py:32 .\core\models.py:59 .\core\models.py:83
+#: .\core\models.py:104 .\core\models.py:137 .\core\models.py:171
+#: .\core\models.py:192 .\core\models.py:215
+msgid "index"
+msgstr "index"
+
+#: .\core\models.py:33
+msgid "Gear_Category"
+msgstr ""
+
+#: .\core\models.py:41
+msgid "gear"
+msgstr "Équipement"
+
+#: .\core\models.py:42
+msgid "gears"
+msgstr "Équipements"
+
+#: .\core\models.py:49 .\core\models.py:245
+msgid "skill"
+msgstr "compétence"
+
+#: .\core\models.py:50
+msgid "damage"
+msgstr "dommage"
+
+#: .\core\models.py:51
+msgid "critical"
+msgstr "critique"
+
+#: .\core\models.py:52
+msgid "range"
+msgstr "portée"
+
+#: .\core\models.py:54 .\core\models.py:79 .\core\models.py:132
+#: .\core\models.py:166
+msgid "hard point"
+msgstr ""
+
+#: .\core\models.py:58
+msgid "special"
+msgstr ""
+
+#: .\core\models.py:60
+msgid "Weapon_Category"
+msgstr ""
+
+#: .\core\models.py:68 .\core\models.py:135 .\core\models.py:169
+msgid "weapon"
+msgstr "arme"
+
+#: .\core\models.py:69
+msgid "weapons"
+msgstr "armes"
+
+#: .\core\models.py:75 .\core\models.py:91 .\core\models.py:98
+#: .\core\models.py:120 .\core\models.py:124 .\core\models.py:153
+#: .\core\models.py:157 .\core\models.py:187
+msgid "armor"
+msgstr "armure"
+
+#: .\core\models.py:76 .\core\models.py:125 .\core\models.py:158
+msgid "defense"
+msgstr "défense"
+
+#: .\core\models.py:77
+msgid "soak"
+msgstr "encaissement"
+
+#: .\core\models.py:92
+msgid "armors"
+msgstr "armures"
+
+#: .\core\models.py:102 .\core\models.py:190
+msgid "hard point required"
+msgstr "point de modification requis"
+
+#: .\core\models.py:105
+msgid "Attachment_Category"
+msgstr ""
+
+#: .\core\models.py:113
+msgid "attachment"
+msgstr ""
+
+#: .\core\models.py:114
+msgid "attachements"
+msgstr ""
+
+#: .\core\models.py:121 .\core\models.py:154
+msgid "silhouette"
+msgstr "gabarit"
+
+#: .\core\models.py:122 .\core\models.py:155
+msgid "speed"
+msgstr "vitesse"
+
+#: .\core\models.py:123 .\core\models.py:156
+msgid "handling"
+msgstr "manœuvrabilité "
+
+#: .\core\models.py:126 .\core\models.py:159
+msgid "hull trauma"
+msgstr ""
+
+#: .\core\models.py:127 .\core\models.py:160
+msgid "system strain"
+msgstr "stress mécanique"
+
+#: .\core\models.py:128 .\core\models.py:161
+msgid "manufacturer"
+msgstr "Fabriquant"
+
+#: .\core\models.py:129 .\core\models.py:163
+msgid "crew"
+msgstr "équipage"
+
+#: .\core\models.py:131 .\core\models.py:165
+msgid "passenger"
+msgstr "passagers"
+
+#: .\core\models.py:133 .\core\models.py:167
+msgid "cost"
+msgstr "coût"
+
+#: .\core\models.py:138
+msgid "Vehicule_Category"
+msgstr ""
+
+#: .\core\models.py:146
+msgid "vehicule"
+msgstr "véhicule"
+
+#: .\core\models.py:147
+msgid "vehicules"
+msgstr "véhicules "
+
+#: .\core\models.py:162
+msgid "hyperdrive/navicomputer"
+msgstr ""
+
+#: .\core\models.py:172
+msgid "Starship_Category"
+msgstr ""
+
+#: .\core\models.py:180
+msgid "starship"
+msgstr "vaisseau"
+
+#: .\core\models.py:181
+msgid "starships"
+msgstr "vaisseaux"
+
+#: .\core\models.py:193
+msgid "Vehicule_Attachment_Category"
+msgstr ""
+
+#: .\core\models.py:201
+msgid "vehicule attachment"
+msgstr ""
+
+#: .\core\models.py:202
+msgid "vehicules attachements"
+msgstr ""
+
+#: .\core\models.py:211 .\core\models.py:221
+msgid "Quality"
+msgstr ""
+
+#: .\core\models.py:212
+msgid "Active"
+msgstr "Actif"
+
+#: .\core\models.py:213
+msgid "Ranked"
+msgstr ""
+
+#: .\core\models.py:214
+msgid "Effect"
+msgstr "effet"
+
+#: .\core\models.py:222
+msgid "Qualities"
+msgstr ""
+
+#: .\core\models.py:228
+msgid "book"
+msgstr "livre"
+
+#: .\core\models.py:229
+msgid "system"
+msgstr "système "
+
+#: .\core\models.py:230
+msgid "tanslate"
+msgstr ""
+
+#: .\core\models.py:231
+msgid "product key"
+msgstr ""
+
+#: .\core\models.py:232
+msgid "initials"
+msgstr ""
+
+#: .\core\models.py:238
+msgid "Book"
+msgstr "Livre"
+
+#: .\core\models.py:239
+msgid "Books"
+msgstr "Livres"
+
+#: .\core\models.py:251
+msgid "Skill"
+msgstr "Compétence"
+
+#: .\core\models.py:252
+msgid "Skills"
+msgstr "Compétences"
+
+#: .\harvest\models.py:12 .\harvest\models.py:29 .\harvest\models.py:46
+#: .\harvest\models.py:63 .\harvest\models.py:80 .\harvest\models.py:97
+msgid "Name"
+msgstr "Nom"
+
+#: .\harvest\models.py:13 .\harvest\models.py:30 .\harvest\models.py:47
+#: .\harvest\models.py:64 .\harvest\models.py:81 .\harvest\models.py:98
+msgid "Price"
+msgstr "Prix"
+
+#: .\harvest\models.py:14 .\harvest\models.py:31 .\harvest\models.py:48
+#: .\harvest\models.py:65 .\harvest\models.py:82 .\harvest\models.py:99
+msgid "Rarity"
+msgstr "Rareté"
+
+#: .\harvest\models.py:15 .\harvest\models.py:32 .\harvest\models.py:49
+#: .\harvest\models.py:66 .\harvest\models.py:83 .\harvest\models.py:100
+msgid "Blueprint"
+msgstr "Schéma"
+
+#: .\harvest\models.py:18
+msgid "Melee Weapon"
+msgstr "Arme de Mêlée "
+
+#: .\harvest\models.py:19
+msgid "Melee Weapons"
+msgstr "Armes de Mêlée"
+
+#: .\harvest\models.py:35
+msgid "Ranged Weapon"
+msgstr "Arme à distance"
+
+#: .\harvest\models.py:36
+msgid "Ranged Weapons"
+msgstr "Armes à distance"
+
+#: .\harvest\models.py:52
+msgid "Armor"
+msgstr "Armure"
+
+#: .\harvest\models.py:53
+msgid "Armors"
+msgstr "Armures"
+
+#: .\harvest\models.py:69
+msgid "Gadget"
+msgstr "Gadget"
+
+#: .\harvest\models.py:70
+msgid "Gadgets"
+msgstr "Gadgets"
+
+#: .\harvest\models.py:86
+msgid "Doid"
+msgstr "Droïde "
+
+#: .\harvest\models.py:87
+msgid "Droids"
+msgstr "Droïdes"
+
+#: .\harvest\models.py:103
+msgid "Vehicule"
+msgstr "Véhicule"
+
+#: .\harvest\models.py:104
+msgid "Vehicules"
+msgstr "Véhicules"

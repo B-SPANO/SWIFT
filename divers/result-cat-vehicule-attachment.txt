@@ -1,0 +1,444 @@
+
+Attachment
+Price
+HP Required
+Rarity
+Index
+Vehicle Utility
+Advanced Subspace Encryption Array
+(R) 6,000
+1
+7
+DA:65
+
+Advanced Targeting Array
+4,000
+1
+4
+A-CRB:286, E-CRB:269, F-CRB:269
+
+All-Terrain Legs
+3,000
+2
+5
+SM:65
+
+Amphibious Modification
+1,000
+1
+5
+SM:65
+
+Astrogation Droid Brain
+7,500
+0
+6
+FC:62
+
+Astromech Droid Socket
+3,000
+2
+5
+SoT:63
+
+Augmented Buffer
+750
+0
+0
+JoY:47
+
+Autopilot Droid Brain
+6,000
+0
+5
+FC:62
+
+Briefing Auditorium
+2,500
+1
+4
+LbE:58
+
+Cloaked Smuggling Compartments
+(R) 2,200
+1
+4
+FC:63
+
+Collision Avoidance System
+2,200
+1
+6
+EV:58
+
+Containment Field
+(R) 7,500
+2
+9
+ND:64
+
+Decoy Buoy
+(R) 5,000
+0
+5
+SM:65
+
+Ejection System
+400
+1
+4
+EV:58
+
+Electronic Counter-Countermeasures Suite
+3,500
+1
+6
+LbE:59
+
+Electronic Countermeasures Suite
+3,000
+1
+6
+A-CRB:286, E-CRB:269, F-CRB:269
+
+Encrypted Computer
+1,000
+0
+6
+SM:65
+
+Engine Boosting System
+1,100
+1
+5
+EV:58
+
+Enhanced Carbon-Durasteel Armor
+2,000
+2
+3
+A-CRB:286, E-CRB:269, F-CRB:269
+
+Enhanced Hyperspace Shields
+4,000
+1
+5
+SM:66
+
+Enhanced Prisoner Lockup
+3,500
+3
+7
+ND:64
+
+Enhanced Repulsorlift
+1,000
+1
+3
+SM:65
+
+Environmental Simulators
+75,000
+2
+6
+DA:64
+
+Fabritech Fogger Smoke Generator
+2,750
+1
+2
+DC:61
+
+Foreign Debris Ejector
+900
+1
+3
+EV:58
+
+Gunner Droid Brain
+7,000
+0
+6
+SM:66
+
+Handling Upgrades
+4,000
+1
+6
+EV:59
+
+Hardened Circuits
+4,500
+2
+5
+SoT:64
+
+High-Output Ion Turbine
+5,300
+1
+5
+A-CRB:286, E-CRB:271, F-CRB:269
+
+High-Output Repulsor Coils
+4,500
+2
+3
+EV:59
+
+Holo-Tank
+5,000
+1
+4
+LbE:59
+
+HoloNet Pirate Array
+(R) 25,000
+2
+8
+DA:65
+
+Hull/Keel Reinforcement
+2,500
+2
+4
+SoT:64
+
+Hydraulic Control Circuits
+1,000
+2
+7
+A-CRB:286, E-CRB:270, F-CRB:270
+
+Hyperdrive Generator
+6,400
+1
+1
+A-CRB:286, E-CRB:271, F-CRB:270
+
+Interior Broadcast Suite
+800
+1
+3
+FC:63
+
+Laser Focusing Array
+5,000
+2
+6
+SM:66
+
+Luxury Passenger Compartments
+2,000
+1
+3
+DA:65
+
+Maneuvering Thrusters
+500
+1
+0
+JoY:47
+
+Nightshadow Coating
+(R) 3,500
+1
+8
+FC:63
+
+Onboard Amenities Unit
+750
+1
+3
+FC:63
+
+Overcharged Ion Engines
+9,500
+2
+4
+SM:66
+
+Physical Countermeasures
+2,200
+1
+4
+SoT:64
+
+Podracer Control Cables
+1,000
+1
+2
+EV:60
+
+Podracer Engine
+4,000
+2
+5
+EV:60
+
+Pseudo-Cloaking Device
+(R) 12,000
+1
+8
+SM:66
+
+Rapid Cargo Evacuation Chute
+(R) 500
+1
+3
+FC:63
+
+Reinforced Engine Cowlings
+2,500
+1
+3
+EV:59
+
+Reinforced Shield Generator
+3,800
+2
+5
+A-CRB:286, E-CRB:270, F-CRB:270
+
+Repulsorlift Enhancement
+2,500
+1
+0
+JoY:47
+
+Retrofitted Hanger Bay
+5,000
+2
+3
+A-CRB:286, E-CRB:271, F-CRB:270
+
+Secondary Transponder
+(R) 20,000
+1
+7
+SM:67
+
+Security Measures
+500
+0
+4
+SM:67
+
+Shield Generator
+4,200
+1
+4
+EV:59
+
+Sienar Grappler 213 Tactical Tractor Beam
+6,200
+1
+7
+DC:62
+
+Sienar T9 Stinger Assault Boarding Tube
+(R) 1,000
+3
+4
+DC:61
+
+Slave Circuit
+10,000
+1
+2
+SoT:65
+
+Slicing Computer
+5,000
+1
+6
+SM:67
+
+Smuggling Compartments
+1,200
+1
+1
+E-CRB:270, F-CRB:270
+
+Tatical Command, Control, and Communications Suite
+4,200
+1
+6
+LbE:59
+
+Theater Command and Control System
+8,500
+2
+6
+LbE:59
+
+Upgraded Comms Array
+4,800
+1
+6
+A-CRB:287, F-CRB:271
+
+Upgraded Firepower
+1,000
+0
+0
+JoY:48
+
+Vaksai Modification Package
+45,000
+2
+7
+ND:60
+
+Whisperthrust Engine
+(R) 7,500
+1
+7
+FC:63
+Vehicle Weapon
+Arakyd Mini-Missile Pack
+(R) 7,000
+1
+5
+DC:60
+
+Arakyd Missile Pack
+(R) 10,000
+1
+5
+DC:60
+
+Ax-108 "Ground Buzzer" Surface-Defense Blaster Cannon
+2,000
+1
+5
+FC:62
+
+Gravity Mine Launcher
+3,500
+1
+6
+SoT:64
+
+Minelayer
+(R) 4,000
+2
+6
+ND:64
+
+Oversized External Weapons Mount
+(R) 3,000
+2
+6
+DC:60
+
+Ram Attachment
+6,500
+2
+3
+SoT:65
+
+Sienar MM-XT Mini-Missile Tube
+(R) 700
+1
+4
+DC:60

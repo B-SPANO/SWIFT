@@ -3,3 +3,21 @@ __pycache__
 env
 db.sqlite3
 /static
+secret.key
+result-cat-weapons\.txt
+
+result-cat-vehicule\.txt
+
+result-cat-starship\.txt
+
+result-cat-gear\.txt
+
+result-cat-attachment\.txt
+
+result-cat-vehicule-attachment\.txt
+
+result-cat-armor\.txt
+
+divers/gear - Copie\.txt
+
+divers/script\.py

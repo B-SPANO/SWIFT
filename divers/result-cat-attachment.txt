@@ -1,0 +1,1001 @@
+
+Attachment
+Price
+Encum
+HP Required
+Rarity
+Index
+Weapon
+Arakyd 900 Gene-Lock
+500
+0
+1
+7
+DC:51
+
+Augmented Spin Barrel
+1,750
+0
+2
+4
+A-CRB:200, E-CRB:188
+
+Balanced Hilt
+1,500
+0
+2
+5
+A-CRB:200, E-CRB:188
+
+Beam Splitter
+(R) 1,250
+0
+3
+4
+FiB:51
+
+Beam Splitter
+(R) 1,250
+0
+3
+4
+FiB:51
+
+Bipod Mount
+100
+0
+1
+1
+A-CRB:200, E-CRB:188, F-CRB:192
+
+Blaster Actuating Module
+500
+0
+1
+4
+A-CRB:200, E-CRB:188
+
+Blaster Energy Dampner
+(R) 750
+0
+1
+4
+F-CRB:194
+
+Blaster Suppressor
+(R) 750
+0
+1
+5
+SoR:110, LoNH:106
+
+Bowcaster Accelerator Enhancement
+250
+0
+1
+4
+E-CRB:189
+
+Bowcaster Automatic Re-Cocker
+500
+0
+1
+3
+E-CRB:189
+
+Built-in Blaster Sight
+150
+0
+1
+4
+FiB:51
+
+Corellian Arms Model 2 Wrist Mount
+275
+0
+2
+5
+DC:52
+
+Custom Grip
+500
+0
+1
+6
+SM:54
+
+Czerka H9 Pistol Grip
+400
+0
+1
+3
+DC:52
+
+Electronic Sighting System
+500
+0
+1
+4
+SoR:110
+
+Energy Overclock Setting
+500
+0
+3
+5
+KtP:53
+
+Enhanced XCiter
+(R) 1,500
+0
+2
+6
+SM:54
+
+Environmental Adaptation Kit
+100
+0
+1
+2
+SS:50
+
+Filed Front Sight
+25
+0
+1
+0
+A-CRB:201, E-CRB:190
+
+Force-Attuned Resonator
+(R) 1,000
+0
+2
+8
+KtP:54
+
+Forearm Grip
+250
+0
+1
+1
+A-CRB:201, E-CRB:190
+
+Galven Pattern Resequencing
+1,000
+0
+2
+5
+FiB:51
+
+Gyrostabilizer
+1,000
+0
+2
+6
+SM:54
+
+Hunting Barrel
+(R) 1,200
+1
+3
+4
+SS:50
+
+Integrated Illuminator
+200
+1
+1
+4
+KtP:54
+
+Integrated Scanner
+675
+0
+2
+5
+SM:54
+
+Magnetic Weapon Tether
+250
+0
+1
+2
+KtP:54
+
+Marked-Target Firing Lock
+900
+0
+1
+4
+ND:51
+
+Marksman Barrel
+1,200
+0
+2
+4
+A-CRB:202, E-CRB:190
+
+Mono-Molecular Edge
+1,000
+0
+1
+5
+A-CRB:202, E-CRB:190, F-CRB:194
+
+Motion Tracker
+1,000
+0
+2
+6
+SS:50
+
+Multi-Optic Sight
+2,000
+0
+1
+3
+A-CRB:202, E-CRB:191, SS:51
+
+Night Vision Scope
+500
+0
+1
+3
+F-CRB:194
+
+Optimized Energy Cell
+100
+0
+1
+5
+SM:54
+
+Overcharge Valve
+(R) 1,500
+0
+2
+6
+FC:51
+
+Overcharged Actuating Module
+650
+0
+1
+7
+SM:55
+
+Paired Weapons
+300
+0
+1
+3
+FC:51
+
+Poison Reservoir
+(R) 400
+0
+1
+5
+LoNH:105
+
+Rapid-Recharge XCiter
+750
+0
+1
+7
+SM:55
+
+Removed Safety Features
+(R) 250
+0
+0
+2
+SM:55
+
+Rocket Guidance System
+50
+0
+1
+4
+ND:47
+
+Secondary Ion Blaster
+400
+2
+2
+6
+SM:56
+
+Serrated Edge
+50
+0
+1
+1
+A-CRB:203, E-CRB:191, F-CRB:194
+
+Set Trigger
+450
+0
+1
+4
+FC:51
+
+Shadowsheath
+(R) 1,500
+0
+1
+5
+F-CRB:194
+
+Shield Discharge Pack
+800
+1
+1
+5
+KtP:54
+
+Shock Pulse Emitter
+1,500
+0
+2
+5
+ND:51
+
+Shortened Barrel
+250
+0
+1
+4
+A-CRB:203, E-CRB:191
+
+Slugthrower Suppressor
+(R) 100
+0
+1
+4
+SS:51
+
+Sonic Scope
+1,500
+0
+1
+8
+SM:56
+
+Sorosuub "Bantha's Eye" Laser Sight
+500
+0
+1
+5
+DC:52
+
+Sorosuub "Final Word" Secondary Missile System
+3,000
+3
+3
+6
+DC:52
+
+Spread Barrel
+1,725
+0
+2
+4
+A-CRB:203, E-CRB:191
+
+Staged Rocket Booster
+25
+0
+1
+2
+ND:47
+
+Stripped Down
+250
+-1
+3
+4
+SM:56
+
+Superior Weapon Customization
+5,000
+0
+1
+6
+A-CRB:203, E-CRB:191, F-CRB:194
+
+Telescopic Optical Sight
+250
+0
+1
+1
+A-CRB:203, E-CRB:192, F-CRB:195
+
+Tripod Mount
+250
+0
+2
+3
+A-CRB:204, E-CRB:193, F-CRB:195
+
+Under-Barrel Flame Projector
+(R) 3,000
+0
+2
+5
+A-CRB:204, E-CRB:192
+
+Under-Barrel Grapnel Launcher
+500
+2
+2
+3
+SM:56
+
+Under-Barrel Grenade Launcher
+(R) 2,000
+0
+2
+5
+A-CRB:205, E-CRB:191
+
+Under-Barrel Micro-Rocket Rack
+(R) 1,200
+3
+3
+6
+ND:51
+
+Underslung Scattergun
+(R) 750
+0
+3
+5
+FC:51
+
+Vibro-Bayonet
+300
+1
+1
+3
+SM:56
+
+Weapon Harness
+500
+0
+2
+2
+A-CRB:205, E-CRB:193
+
+Weapon Signature Reduction
+1,000
+0
+1
+6
+SoR:110
+
+Weapon Sling
+100
+0
+1
+0
+A-CRB:205, E-CRB:193, F-CRB:195
+
+Weighted Head
+250
+0
+2
+3
+A-CRB:205, E-CRB:193, F-CRB:195
+Armor
+Amphibious Modification
+500
+0
+1
+4
+SM:57
+
+Armor Spikes
+500
+2
+3
+2
+KtP:56
+
+Athakam Medtech Smartmed 2000 Integrated Med-Systems
+2,500
+1
+2
+7
+DC:53
+
+Biofeedback System
+3,300
+0
+2
+5
+F-CRB:200
+
+Chedak Communications Multi-Band Comlink
+200
+0
+0
+1
+DC:53
+
+Cortosis Weave
+10,000
+0
+2
+8
+A-CRB:205, E-CRB:194
+
+Cryoncorp Omniscan 3 Integrated Scanner
+1,000
+0
+1
+4
+DC:54
+
+Custom Fit
+400
+0
+1
+3
+SM:57
+
+Energy Dispersion System
+500
+0
+1
+4
+F-CRB:201
+
+Enhanced Optics Suite
+1,750
+0
+1
+3
+A-CRB:206, E-CRB:194
+
+Hardened
+900
+2
+2
+4
+KtP:56
+
+Heating System
+1,000
+0
+1
+3
+A-CRB:206, E-CRB:194, F-CRB:201
+
+In-Helmet Scanner
+750
+0
+1
+4
+F-CRB:201
+
+Industrial Automaton "Accu-Strike" Integrated Targeting Computer
+3,000
+0
+1
+7
+DC:54
+
+Integrated Ascension Gear
+350
+0
+2
+3
+SM:57
+
+Integrated Holsters
+300
+4
+2
+4
+ND:52
+
+Integrated Slicer Gear
+750
+0
+3
+6
+SM:58
+
+Ion Shielding
+2,000
+0
+1
+7
+SM:58
+
+Kiirium Coating
+2,500
+1
+2
+7
+KtP:56
+
+Low-Friction Coating
+750
+0
+1
+5
+KtP:56
+
+Merr-Sonn VX Hands-Free Weapon System
+1,000
+0
+2
+6
+DC:53
+
+Micro-Rocket Armor Mounting
+(R) 800
+3
+2
+6
+ND:52
+
+Optical Camouflage System
+5,500
+0
+2
+6
+A-CRB:206, E-CRB:195, SS:51
+
+Passive Foliage Suit
+75
+0
+1
+2
+SS:51
+
+Quick Shed
+650
+0
+1
+6
+KtP:57
+
+Radiation Shielding
+500
+0
+1
+3
+SM:58
+
+Reactive Plating
+2,000
+4
+4
+6
+KtP:57
+
+Reflec Shadowskin
+(R) 1,200
+0
+1
+6
+KtP:57
+
+Reinforced Gauntlets
+250
+0
+2
+2
+SM:58
+
+Repulsor-Assisted Lifting
+1,000
+0
+2
+3
+ND:52
+
+Self-Repair Systems
+3,000
+0
+2
+6
+SM:58
+
+Strength Enhancing System
+5,500
+0
+2
+4
+A-CRB:206, E-CRB:194
+
+Stun Matrix
+1,750
+1
+3
+3
+KtP:57
+
+Superior Armor Customization
+5,000
+0
+1
+6
+A-CRB:206, E-CRB:195, F-CRB:201
+
+Taggeco MB-7 "Ranger" Range Finder
+1,500
+0
+1
+6
+DC:54
+
+Thermal Shielding System
+1,000
+0
+1
+3
+A-CRB:207, E-CRB:194, F-CRB:201
+
+Threat Monitor
+750
+0
+1
+4
+LoNH:106
+
+Tracking System
+1,000
+0
+1
+7
+ND:52
+
+Vacuum Sealed
+1,000
+0
+1
+3
+A-CRB:207, E-CRB:195, KtP:57
+
+Water Reclamation System
+500
+0
+2
+4
+SS:52
+Lightsaber
+Barab Ingot
+(R) 15,000
+0
+2
+8
+F-CRB:196
+
+Blade Drain
+(R) 4,000
+0
+2
+9
+DoH:50
+
+Corrupted Crystal
+(R) 0
+0
+2
+9
+DoH:52
+
+Cracked Crystal
+0
+0
+2
+10
+DoH:52
+
+Curved Hilt
+1,000
+0
+1
+6
+F-CRB:196
+
+Cyclic Crystal Array
+(R) 1,500
+0
+2
+8
+KtP:53
+
+Damping Emitter
+2,000
+0
+1
+7
+EV:51
+
+Dantari Crystal
+(R) 12,000
+0
+2
+9
+F-CRB:196
+
+Dragite Gem
+(R) 14,000
+0
+2
+7
+F-CRB:196
+
+Dual-Phase Modification
+4,500
+0
+2
+6
+F-CRB:197
+
+Etaan Crystal
+(R) 12,000
+0
+1
+9
+EV:52
+
+Extended Hilt
+3,800
+0
+1
+7
+F-CRB:197
+
+Ghostfire Crystal
+(R) 14,000
+0
+1
+9
+EV:53
+
+Hilt-Masking Kit
+0
+0
+1
+0
+DoH:50
+
+Ilum Crystal
+(R) 9,000
+0
+2
+10
+F-CRB:197
+
+Kimber Stone
+(R) 6,500
+0
+2
+8
+KtP:55
+
+Krayt Dragon Pearl
+(R) 15,000
+0
+2
+10
+F-CRB:199
+
+Lorrdian Gemstone
+(R) 9,600
+0
+2
+8
+F-CRB:199
+
+Mephite Crystal
+(R) 10,000
+0
+2
+10
+F-CRB:200
+
+Nishalorite Stone
+(R) 12,500
+0
+2
+8
+SS:52
+
+Overcharged Power Cell
+500
+0
+1
+6
+EV:51
+
+Pistol Hilt
+750
+0
+2
+5
+EV:52
+
+Pommel Cap
+3,000
+0
+1
+2
+DoH:51
+
+Reflex Grip
+4,000
+0
+2
+8
+EV:52
+
+Sapith Gem
+(R) 18,000
+0
+2
+10
+F-CRB:200
+
+Seeker Crystal
+(R) 16,000
+0
+2
+9
+DoH:53
+
+Shien Reverse Grip Customization
+100
+0
+1
+6
+EV:52
+
+Solari Crystal
+(R) 16,000
+0
+3
+9
+DoH:53
+
+Sorian Crystal
+(R) 16,000
+0
+4
+4
+KtP:55
+
+Stun Blaster Attachment
+750
+0
+2
+5
+DoH:51
+
+Superior Hilt Personalization
+5,000
+0
+1
+6
+F-CRB:200
+
+Training Lightsaber Emitter
+100
+0
+2
+6
+F-CRB:200
+
+Varpeline Crystal
+(R) 14,000
+0
+2
+9
+SS:52
